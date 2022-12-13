@@ -5,6 +5,7 @@ I have implemented the problem in an android application, I have used cloud fire
  ### APK Link ###
 Link :  [Android apk](https://drive.google.com/file/d/1_VH-nSTVJ9vP-pFKB2hz8Bo34-8bBajX/view?usp=sharing/ "Android APK") 
 
+
  ### Screenshots ###
 [![HouI7CQ.jpg](https://iili.io/HouI7CQ.jpg)](https://freeimage.host/)     [![Houo92e.jpg](https://iili.io/Houo92e.jpg)](https://freeimage.host/)
 
@@ -30,4 +31,16 @@ Participants is a collection, it has documents as objects which contains basic d
               
 #### Batches ####
 Batches is also a collection here, it has 4 documents or objects with id 0,1,2,3 referring to 4 batches which are in operation. Each batch as 3 attributes timing,capacity(denoting total capacity of batch) and filled(current occupancy of batch).
+
+
+
+
+### APP Overview ###
+The applications consists of two fragments(pages), 
+
+in First page (screenshot 1) there is user registration form, which takes user inputs for registration, it accepts name, age, contact, and batch in which user tries to oget registerd, batch is a dropdown menu here, by clicking it option of available batches pops up.
+
+in Second page(screenshot 2), i have shown details of available batches and their status, it shows realtime availability of seats in corresponding batches.
+
+
 
