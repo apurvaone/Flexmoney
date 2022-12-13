@@ -42,7 +42,7 @@ Batches is also a collection here, it has 4 documents or objects with id 0,1,2,3
 ### APP Overview ###
 The applications consists of two fragments(pages), 
 
-in First page (screenshot 1) there is user registration form, which takes user inputs for registration, it accepts name, age, contact, and batch in which user tries to oget registerd, batch is a dropdown menu here, by clicking it option of available batches pops up.
+in First page (screenshot 1) there is user registration form, which takes user inputs for registration, it accepts name, age, contact, and batch in which user tries to get registerd, batch is a dropdown menu here, by clicking it option of available batches pops up.
 
 in Second page(screenshot 2), i have shown details of available batches and their status, it shows realtime availability of seats in corresponding batches.
 
