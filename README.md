@@ -1,6 +1,6 @@
 # Flexmoney Assessment
 
-This assessment has been done using android application written in Java, and Cloud Firestore database from firebase to store the data of yoga classes participants across batches.
+This assessment has been done using android application written in Java, it uses Cloud Firestore database from firebase to store the data of yoga classes participants across batches.
 
  ### APK Link ###
 Link :  [Android apk](https://drive.google.com/file/d/1_VH-nSTVJ9vP-pFKB2hz8Bo34-8bBajX/view?usp=sharing/ "Android APK") 
