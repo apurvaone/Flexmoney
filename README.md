@@ -1,6 +1,6 @@
 # Flexmoney Assignment 
 
-I have implemented the problem in an android application, I have used cloud firestore database from firebase to store the data of yoga classes participants across batches.
+The assigniment has been done using android application written in Java, Cloud Firestore database from firebase to store the data of yoga classes participants across batches.
 
  ### APK Link ###
 Link :  [Android apk](https://drive.google.com/file/d/1_VH-nSTVJ9vP-pFKB2hz8Bo34-8bBajX/view?usp=sharing/ "Android APK") 
@@ -54,6 +54,5 @@ in Second page(screenshot 2), i have shown details of available batches and thei
 
 ##### 2. Participants #####
 
-[![Houh7ea.md.png](https://iili.io/Houh7ea.md.png)](https://freeimage.host/i/Houh7ea)
-
+[![Hou4GtI.md.png](https://iili.io/Hou4GtI.md.png)](https://freeimage.host/i/Hou4GtI)
 
