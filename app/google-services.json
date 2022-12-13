@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "847865469318",
+    "project_id": "flexmoney-63724",
+    "storage_bucket": "flexmoney-63724.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847865469318:android:58774764ac7b6365233407",
+        "android_client_info": {
+          "package_name": "com.example.flexmoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847865469318-cbk0n5oe1ve5ah2goeu9hk6dgoi45rjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjPe4VOlP3VwuSdwnVJKgHHC1n3-TJmt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847865469318-cbk0n5oe1ve5ah2goeu9hk6dgoi45rjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
