@@ -26,10 +26,14 @@ So basically there are two Collections with mentioned attributes
               * filled
               
               
-#### Participants ####
+              
+              
+### Collections ###
+        
+##### 1. Participants #####
 Participants is a collection, it has documents as objects which contains basic data required for registration of user for yoga class. batch_id is id which is used to refernece to another collection called batches. 
               
-#### Batches ####
+##### 2. Batches #####
 Batches is also a collection here, it has 4 documents or objects with id 0,1,2,3 referring to 4 batches which are in operation. Each batch as 3 attributes timing,capacity(denoting total capacity of batch) and filled(current occupancy of batch).
 
 
@@ -42,5 +46,14 @@ in First page (screenshot 1) there is user registration form, which takes user i
 
 in Second page(screenshot 2), i have shown details of available batches and their status, it shows realtime availability of seats in corresponding batches.
 
+### Database implementation in Cloud Firestore ###
+
+##### 1. Batches #####
+
+[![HouV0sS.md.png](https://iili.io/HouV0sS.md.png)](https://freeimage.host/i/HouV0sS)
+
+##### 2. Participants #####
+
+[![Houh7ea.md.png](https://iili.io/Houh7ea.md.png)](https://freeimage.host/i/Houh7ea)
 
 
