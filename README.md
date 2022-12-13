@@ -28,4 +28,6 @@ So basically there are two Collections with mentioned attributes
 #### Participants ####
 Participants is a collection, it has documents as objects which contains basic data required for registration of user for yoga class. batch_id is id which is used to refernece to another collection called batches. 
               
+#### Batches ####
+Batches is also a collection here, it has 4 documents or objects with id 0,1,2,3 referring to 4 batches which are in operation. Each batch as 3 attributes timing,capacity(denoting total capacity of batch) and filled(current occupancy of batch).
 
