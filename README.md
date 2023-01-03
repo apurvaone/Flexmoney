@@ -13,9 +13,9 @@ Link :  [Android apk](https://drive.google.com/file/d/1_VH-nSTVJ9vP-pFKB2hz8Bo34
 ### APP Overview ###
 The applications consists of two fragments(pages), 
 
-Home (screenshot 1):  there is user registration form, which takes user inputs for registration, it accepts name, age, contact, and batch in which user tries to get registerd, batch is a dropdown menu here, by clicking it option of available batches pops up.
+**Home (screenshot 1)**:  there is user registration form, which takes user inputs for registration, it accepts name, age, contact, and batch in which user tries to get registerd, batch is a dropdown menu here, by clicking it option of available batches pops up.
 
-Dashboard (screenshot 2):  Realtime details of available batches and their status is shown, After user registration one can see the numbers being updtaed of corresponding batch in Dashboard.
+**Dashboard (screenshot 2)**:  Realtime details of available batches and their status is shown, After user registration one can see the numbers being updtaed of corresponding batch in Dashboard.
 
 
 The database used here is Firestore. Similar to other NoSQL databases cloud firestore is also based on Collections and Document Structure.
